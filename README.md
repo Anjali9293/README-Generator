@@ -27,7 +27,7 @@ npm install
 
 ## Usage
 
-Click the link below to watch the video on how to use the application:
+Review the video below on how to the application works:
 
 ![Video demo](/Develop/Assets/Video-presentation/readme.gif)
 
