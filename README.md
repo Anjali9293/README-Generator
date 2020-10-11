@@ -23,9 +23,13 @@ The scope of this project was to create a command-line application that dynamica
 
 npm install
 
+![npm Install image](/Develop/Assets/snapshot/npmInstall.PNG)
+
 ## Usage
 
 Click the link below to watch the video on how to use the application:
+
+![Video demo](/Develop/Assets/Video-presentation/readme.gif)
 
 ## Credits
 

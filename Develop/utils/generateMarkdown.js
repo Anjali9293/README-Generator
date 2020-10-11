@@ -50,7 +50,6 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 // function to generate markdown for README
 function generateMarkdown(data) {
-  console.log(data.users);
   let userText = "";
 
   data.users.forEach(function(user) {
@@ -81,7 +80,7 @@ ${data.Installation}
 
 ## Usage
 
-Link to the deployed application: [Github Pages](${data.pagesURL})
+${data.Usage}
 
 ## Credits
 
