@@ -29,7 +29,7 @@ npm install
 
 ## Usage
 
-Review the video below on how to the application works:
+Review the GIF below on how to the application works:
 
 ![Video demo](/Develop/Assets/Video-presentation/readme.gif)
 
