@@ -103,7 +103,7 @@ ${data.Tests}
 
 ## Questions:
 
-For more questions about this projec, click the link below to my Github repo:
+For more questions about this project, click the link below to view my Github repo:
 
 - [GitHub Profile](https://github.com/${data.username})
 
