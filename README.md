@@ -35,7 +35,7 @@ Review the GIF below on how to the application works:
 
 Click the link below to watch the video demonstration:
 
-[Video link](https://drive.google.com/file/d/1J7PamdFxRtMuR900nsXsMShukQnD89D0/view?usp=sharing)
+[Video link](https://youtu.be/u_cUkchjBZU)
 
 ## Credits
 
