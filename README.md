@@ -33,7 +33,7 @@ Review the video below on how to the application works:
 
 ![Video demo](/Develop/Assets/Video-presentation/readme.gif)
 
-Click the link belo to watch the video demonstration:
+Click the link below to watch the video demonstration:
 
 [Video link](https://drive.google.com/file/d/1J7PamdFxRtMuR900nsXsMShukQnD89D0/view?usp=sharing)
 
